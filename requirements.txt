@@ -36,7 +36,7 @@ parsel==1.5.2
 Pillow==7.0.0
 pluggy==0.13.1
 pre-commit==2.1.0
-py==1.8.1
+py==1.10.0
 pycodestyle==2.5.0
 pycparser==2.20
 PyDispatcher==2.0.5
