@@ -15,7 +15,7 @@ cryptography==2.8
 cssselect==1.1.0
 distlib==0.3.0
 filelock==3.0.12
-Flask==1.1.1
+Flask==2.2.5
 h==0.99
 html5==0.0.9
 hyperlink==19.0.0
