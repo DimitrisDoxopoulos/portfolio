@@ -60,7 +60,7 @@ tox==3.14.5
 translate==3.5.0
 tweepy==3.8.0
 twilio==6.35.5
-urllib3==1.25.8
+urllib3==1.26.17
 virtualenv==20.0.4
 w3lib==1.21.0
 webencodings==0.5.1
