@@ -4,7 +4,7 @@ attrs==19.3.0
 Automat==20.2.0
 autopep8==1.5
 beautifulsoup4==4.8.2
-certifi==2019.11.28
+certifi==2023.7.22
 cffi==1.14.0
 cfgv==3.0.0
 chardet==3.0.4
