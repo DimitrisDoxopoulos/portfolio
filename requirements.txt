@@ -24,7 +24,7 @@ idna==2.9
 incremental==17.5.0
 isort==4.3.21
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==3.1.6
 lazy-object-proxy==1.4.3
 lxml==6.1.0
 MarkupSafe==1.1.1
